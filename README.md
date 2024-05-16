@@ -1,0 +1,1 @@
+# rate_interest_calculator_test
